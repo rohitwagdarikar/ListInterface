@@ -38,6 +38,10 @@ public class listInterface {
 		
 		System.out.println("Sub List : "+sublist);
 			
+		ArrayList al1 = new ArrayList<>();
+		al1.add("rohit");
+		al1.add("Wagdarikar");
+		System.out.println(al1);
 		
 	}
 
